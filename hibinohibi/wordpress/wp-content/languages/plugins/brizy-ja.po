@@ -1,0 +1,1491 @@
+# Translation of Plugins - Brizy &#8211; Page Builder - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Brizy &#8211; Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-06 08:10:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Brizy &#8211; Page Builder - Stable (latest release)\n"
+
+#: languages/texts.php:416
+msgid "remove this block"
+msgstr "このブロックを削除"
+
+#: languages/texts.php:415
+msgid "or"
+msgstr "または"
+
+#: languages/texts.php:414
+msgid "open an issue"
+msgstr "問題を開く"
+
+#: languages/texts.php:413
+msgid "You can"
+msgstr "できること"
+
+#: languages/texts.php:412
+msgid "An error happened while trying to display this block"
+msgstr "このブロックを表示しようとしたときにエラーが発生しました"
+
+#: languages/texts.php:411
+msgid "Enter Search Keyword"
+msgstr "検索キーワードを入力"
+
+#: languages/texts.php:410
+msgid "All Categories"
+msgstr "全てのカテゴリー"
+
+#: languages/texts.php:409
+msgid "Global"
+msgstr "グローバル"
+
+#: languages/texts.php:408
+msgid "Saved"
+msgstr "保存しました"
+
+#: languages/texts.php:407
+msgid "Save"
+msgstr "保存"
+
+#: languages/texts.php:406
+msgid "Make it Global"
+msgstr "グローバルにする"
+
+#: languages/texts.php:405
+msgid "Block"
+msgstr "ブロック"
+
+#: languages/texts.php:404
+msgid "Filter By"
+msgstr "フィルター"
+
+#: languages/texts.php:319
+msgid "Message sent"
+msgstr "送信メッセージ"
+
+#: languages/texts.php:318
+msgid "Error"
+msgstr "エラー"
+
+#: languages/texts.php:403
+msgid "Comment count"
+msgstr "コメント数"
+
+#: languages/texts.php:402
+msgid "Parent"
+msgstr "親"
+
+#: languages/texts.php:401
+msgid "Modified"
+msgstr "修正されました"
+
+#: languages/texts.php:400
+msgid "Meta Value"
+msgstr "メタバリュー"
+
+#: languages/texts.php:399
+msgid "Meta Key"
+msgstr "メタキー"
+
+#: languages/texts.php:398
+msgid "Inherit"
+msgstr "継承する"
+
+#: languages/texts.php:397
+msgid "Auto-Draft"
+msgstr "自動下書き"
+
+#: languages/texts.php:396
+msgid "Trash"
+msgstr "ゴミ箱"
+
+#: languages/texts.php:395
+msgid "Private"
+msgstr "非公開"
+
+#: languages/texts.php:394
+msgid "Pending"
+msgstr "保留中"
+
+#: languages/texts.php:393
+msgid "Draft"
+msgstr "下書き"
+
+#: languages/texts.php:392
+msgid "Future"
+msgstr "将来"
+
+#: languages/texts.php:391
+msgid "Status"
+msgstr "ステータス"
+
+#: languages/texts.php:390
+msgid "Exclude"
+msgstr "除外する"
+
+#: languages/texts.php:389
+msgid "Include"
+msgstr "含める"
+
+#: languages/texts.php:388
+msgid "Author"
+msgstr "投稿者"
+
+#: languages/texts.php:387
+msgid "Category"
+msgstr "カテゴリー"
+
+#: languages/texts.php:386
+msgid "Number posts"
+msgstr "投稿数"
+
+#: languages/texts.php:385
+msgid "Post"
+msgstr "投稿"
+
+#: languages/texts.php:384
+msgid "Post Type"
+msgstr "投稿タイプ"
+
+#: languages/texts.php:383
+msgid "Weight"
+msgstr "重量"
+
+#: languages/texts.php:382
+msgid "Paste your wordpress shortcode here..."
+msgstr "WordPress のショートコードをここに入れてください"
+
+#: languages/texts.php:381
+msgid "ID"
+msgstr "ID"
+
+#: languages/texts.php:380
+msgid "Random"
+msgstr "ランダム"
+
+#: languages/texts.php:379
+msgid "Menu Order"
+msgstr "メニューの順序"
+
+#: languages/texts.php:378
+msgid "Popularity"
+msgstr "人気"
+
+#: languages/texts.php:377
+msgid "Rating"
+msgstr "評価"
+
+#: languages/texts.php:376
+msgid "Title"
+msgstr "タイトル"
+
+#: languages/texts.php:375
+msgid "Filter"
+msgstr "フィルター"
+
+#: languages/texts.php:374
+msgid "Order Tracking"
+msgstr "注文のトラッキング"
+
+#: languages/texts.php:373
+msgid "My Account"
+msgstr "私のアカウント"
+
+#: languages/texts.php:372
+msgid "Checkout"
+msgstr "チェックアウト"
+
+#: languages/texts.php:371
+msgid "Cart"
+msgstr "カート"
+
+#: languages/texts.php:370
+msgid "Page"
+msgstr "ページ"
+
+#: languages/texts.php:369
+msgid "Count"
+msgstr "カウント"
+
+#: languages/texts.php:368
+msgid "Description"
+msgstr "説明"
+
+#: languages/texts.php:367
+msgid "Slug"
+msgstr "スラッグ"
+
+#: languages/texts.php:366
+msgid "Name"
+msgstr "お名前"
+
+#: languages/texts.php:365
+msgid "Order By"
+msgstr "並び替え"
+
+#: languages/texts.php:364
+msgid "Desc"
+msgstr "降順"
+
+#: languages/texts.php:363
+msgid "Asc"
+msgstr "昇順"
+
+#: languages/texts.php:362
+msgid "Order"
+msgstr "順"
+
+#: languages/texts.php:361
+msgid "Categories Count"
+msgstr "カテゴリー数"
+
+#: languages/texts.php:360
+msgid "Columns"
+msgstr "列"
+
+#: languages/texts.php:359
+msgid "Style Add to Cart"
+msgstr "「カートに入れる」のスタイル"
+
+#: languages/texts.php:358
+msgid "Layout"
+msgstr "レイアウト"
+
+#: languages/texts.php:357
+msgid "Products Count"
+msgstr "製品数"
+
+#: languages/texts.php:356
+msgid "Product ID or SKU"
+msgstr "製品の ID または SKU"
+
+#: languages/texts.php:355
+msgid "Product ID"
+msgstr "製品の ID"
+
+#: languages/texts.php:354
+msgid "Query"
+msgstr "請願"
+
+#: languages/texts.php:351
+msgid "MultiPage"
+msgstr "マルチページ"
+
+#: languages/texts.php:350
+msgid "Footer"
+msgstr "フッター"
+
+#: languages/texts.php:347
+msgid "Play"
+msgstr "再生"
+
+#: languages/texts.php:346
+msgid "Cover"
+msgstr "カバー"
+
+#: languages/texts.php:345
+msgid "Controls"
+msgstr "コントローラ表示"
+
+#: languages/texts.php:344
+msgid "Ratio"
+msgstr "比率"
+
+#: languages/texts.php:343
+msgid "Video Link"
+msgstr "動画のリンク"
+
+#: languages/texts.php:341
+msgid "SoundCloud Link"
+msgstr "SoundCloud のリンク"
+
+#: languages/texts.php:340
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: languages/texts.php:338
+msgid "Bar"
+msgstr "バー"
+
+#: languages/texts.php:337
+msgid "Show Percentage"
+msgstr "割合を表示"
+
+#: languages/texts.php:336
+msgid "Percentage"
+msgstr "割合"
+
+#: languages/texts.php:334
+msgid "Satur.."
+msgstr "飽和"
+
+#: languages/texts.php:333
+msgid "Brigh.."
+msgstr "輝度"
+
+#: languages/texts.php:332
+msgid "Hue"
+msgstr "色相"
+
+#: languages/texts.php:331
+msgid "Opacity"
+msgstr "不透明度"
+
+#: languages/texts.php:330
+msgid "Style"
+msgstr "スタイル"
+
+#: languages/texts.php:327
+msgid "Select"
+msgstr "セレクト"
+
+#: languages/texts.php:326
+msgid "Paragraph"
+msgstr "段落"
+
+#: languages/texts.php:325
+msgid "Number"
+msgstr "数"
+
+#: languages/texts.php:324
+msgid "Email"
+msgstr "メール"
+
+#: languages/texts.php:323
+msgid "Required"
+msgstr "必須"
+
+#: languages/texts.php:322
+msgid "Go to"
+msgstr "行く:"
+
+#: languages/texts.php:321
+msgid "Redirect"
+msgstr "リダイレクト"
+
+#: languages/texts.php:320
+msgid "Message not sent"
+msgstr "メッセージが送信されませんでした"
+
+#: languages/texts.php:317
+msgid "Success"
+msgstr "成功"
+
+#: languages/texts.php:316
+msgid "Message"
+msgstr "メッセージ"
+
+#: languages/texts.php:315
+msgid "Label"
+msgstr "ラベル"
+
+#: languages/texts.php:314
+msgid "Field Type"
+msgstr "フィールドの種類"
+
+#: languages/texts.php:313
+msgid "Field"
+msgstr "フィールド"
+
+#: languages/texts.php:311
+msgid "Paste your code here..."
+msgstr "ここにコードを貼り付けてください..."
+
+#: languages/texts.php:309
+msgid "End"
+msgstr "終わり"
+
+#: languages/texts.php:308
+msgid "Start"
+msgstr "開始"
+
+#: languages/texts.php:306
+msgid "Russian"
+msgstr "ロシア語"
+
+#: languages/texts.php:305
+msgid "Dutch"
+msgstr "オランダ語"
+
+#: languages/texts.php:304
+msgid "Italian"
+msgstr "イタリア語"
+
+#: languages/texts.php:303
+msgid "French"
+msgstr "フランス語"
+
+#: languages/texts.php:302
+msgid "Spanish"
+msgstr "スペイン語"
+
+#: languages/texts.php:301
+msgid "English"
+msgstr "英語"
+
+#: languages/texts.php:300
+msgid "German"
+msgstr "ドイツ語"
+
+#: languages/texts.php:299
+msgid "Language"
+msgstr "言語"
+
+#: languages/texts.php:298
+msgid "+ 12:00 (Auckland)"
+msgstr "+ 12:00 (オークランド)"
+
+#: languages/texts.php:297
+msgid "+ 11:00 (Ponape)"
+msgstr "+ 11:00 (ポナペ)"
+
+#: languages/texts.php:296
+msgid "+ 10:00 (Sidney, Melbourne)"
+msgstr "+ 10:00 (シドニー、メルボルン)"
+
+#: languages/texts.php:295
+msgid "+ 9:00 (Tokyo, Seoul)"
+msgstr "+ 9:00 (東京、ソウル)"
+
+#: languages/texts.php:294
+msgid "+ 8:00 (Singapore, Beijing)"
+msgstr "+ 8:00 (シンガポール、北京)"
+
+#: languages/texts.php:293
+msgid "+ 7:00 (Bangkok, Jakarta)"
+msgstr "+ 7:00 (ジャカルタ、バンコク)"
+
+#: languages/texts.php:292
+msgid "+ 6:00 (Astana)"
+msgstr "+ 6:00 (アスタナ)"
+
+#: languages/texts.php:291
+msgid "+ 5:00 (Yekaterinburg)"
+msgstr "+ 5:00 (エカテリンブルク)"
+
+#: languages/texts.php:290
+msgid "+ 4:00 (Dubai, Baku)"
+msgstr "+ 4:00 (ドバイ、バクー)"
+
+#: languages/texts.php:289
+msgid "+ 3:00 (Moscow, Baghdad)"
+msgstr "+ 3:00 (バグダッド、モスクワ)"
+
+#: languages/texts.php:288
+msgid "+ 2:00 (Athens, Istanbul)"
+msgstr "+ 2:00 (アテネ、イスタンブール)"
+
+#: languages/texts.php:287
+msgid "+ 1:00 (Berlin, Paris)"
+msgstr "+ 1:00 (ベルリン、パリ)"
+
+#: languages/texts.php:286
+msgid "00:00 (London, Dublin)"
+msgstr "00:00 (ロンドン、ダブリン)"
+
+#: languages/texts.php:285
+msgid "- 1:00 (Cape Verde)"
+msgstr "- 1:00 (カーボベルデ)"
+
+#: languages/texts.php:284
+msgid "- 2:00 (Noronha)"
+msgstr "- 2:00 (ノローニャ)"
+
+#: languages/texts.php:283
+msgid "- 3:00 (Brasilia, Santiago)"
+msgstr "- 3:00 (サンティアゴ、ブラジリア)"
+
+#: languages/texts.php:282
+msgid "- 4:00 (Halifax, Manaus)"
+msgstr "- 4:00 (ハリファックス、マナウス)"
+
+#: languages/texts.php:281
+msgid "- 5:00 (New York, Miami)"
+msgstr "- 5:00 (ニューヨーク、マイアミ)"
+
+#: languages/texts.php:280
+msgid "- 6:00 (Chicago, Dallas)"
+msgstr "- 6:00 (シカゴ、ダラス)"
+
+#: languages/texts.php:279
+msgid "- 7:00 (Denver, Phoenix)"
+msgstr "- 7:00 (デンバー、フェニックス)"
+
+#: languages/texts.php:278
+msgid "- 8:00 (Los Angeles)"
+msgstr "- 8:00 (ロサンゼルス)"
+
+#: languages/texts.php:277
+msgid "- 9:00 (Anchorage)"
+msgstr "- 9:00 (アンカレッジ)"
+
+#: languages/texts.php:276
+msgid "- 10:00 (Honolulu, Papeete)"
+msgstr "- 10:00 (ホノルル、パペーテ)"
+
+#: languages/texts.php:275
+msgid "- 11:00 (Niue)"
+msgstr "- 11:00 (ニウエ)"
+
+#: languages/texts.php:274
+msgid "Time Zone"
+msgstr "タイムゾーン"
+
+#: languages/texts.php:273
+msgid "Minutes"
+msgstr "分"
+
+#: languages/texts.php:272
+msgid "Hour"
+msgstr "時"
+
+#: languages/texts.php:271
+msgid "Date"
+msgstr "日付"
+
+#: languages/texts.php:237
+msgid "Italic"
+msgstr "イタリック"
+
+#: languages/texts.php:236
+msgid "Bold"
+msgstr "太字"
+
+#: languages/texts.php:232
+msgid "Size"
+msgstr "サイズ"
+
+#: languages/texts.php:231
+msgid "Font Family"
+msgstr "フォントファミリー"
+
+#: languages/texts.php:228
+msgid "Position"
+msgstr "位置"
+
+#: languages/texts.php:226
+msgid "Content"
+msgstr "コンテンツ"
+
+#: languages/texts.php:145
+msgid "Delete"
+msgstr "削除"
+
+#: languages/texts.php:140 languages/texts.php:259
+msgid "Border"
+msgstr "枠線"
+
+#: languages/texts.php:138
+msgid "Colors"
+msgstr "色"
+
+#: languages/texts.php:132
+msgid "Loop"
+msgstr "繰り返し再生"
+
+#: languages/texts.php:129
+msgid "Quality"
+msgstr "品質"
+
+#: languages/texts.php:123
+msgid "Parallax"
+msgstr "Parallax"
+
+#: languages/texts.php:109
+msgid "Custom"
+msgstr "カスタム"
+
+#: languages/texts.php:106
+msgid "Height"
+msgstr "高さ"
+
+#: languages/texts.php:102
+msgid "Outline"
+msgstr "アウトライン"
+
+#: languages/texts.php:96
+msgid "Square"
+msgstr "四角"
+
+#: languages/texts.php:91
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: languages/texts.php:86
+msgid "Slider"
+msgstr "スライダー"
+
+#: languages/texts.php:78
+msgid "Advanced"
+msgstr "高度"
+
+#: languages/texts.php:64
+msgid "More"
+msgstr "さらに表示"
+
+#: languages/texts.php:46
+msgid "Menu"
+msgstr "メニュー"
+
+#: languages/texts.php:44
+msgid "Products"
+msgstr "プロダクト"
+
+#: languages/texts.php:42
+msgid "Pages"
+msgstr "固定ページ"
+
+#: languages/texts.php:41
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: languages/texts.php:39
+msgid "Column"
+msgstr "列"
+
+#: languages/texts.php:38
+msgid "Row"
+msgstr "行"
+
+#: languages/texts.php:36
+msgid "Progress"
+msgstr "Progress"
+
+#: languages/texts.php:35
+msgid "Tabs"
+msgstr "タブ"
+
+#: languages/texts.php:33
+msgid "Counter"
+msgstr "カウンター"
+
+#: languages/texts.php:30
+msgid "Form"
+msgstr "フォーム"
+
+#: languages/texts.php:24 languages/texts.php:122
+msgid "Image"
+msgstr "画像"
+
+#: languages/texts.php:23
+msgid "Icon"
+msgstr "アイコン"
+
+#: languages/texts.php:267
+msgid "Hover"
+msgstr "ホバー"
+
+#: languages/texts.php:266
+msgid "Normal"
+msgstr "普通"
+
+#: languages/texts.php:263
+msgid "Spacing"
+msgstr "間隔"
+
+#: languages/texts.php:262
+msgid "Fill"
+msgstr "記入"
+
+#: languages/texts.php:261
+msgid "Corner"
+msgstr "コーナー"
+
+#: languages/texts.php:260
+msgid "Margin"
+msgstr "マージン"
+
+#: languages/texts.php:258
+msgid "Padding"
+msgstr "パディング"
+
+#: languages/texts.php:254 languages/texts.php:255
+msgid "Open In New Tab"
+msgstr "新しいタブで開く"
+
+#: languages/texts.php:253
+msgid "Link to"
+msgstr "リンク先"
+
+#: languages/texts.php:252
+msgid "Anchor"
+msgstr "アンカー"
+
+#: languages/texts.php:251
+msgid "Link"
+msgstr "リンク"
+
+#: languages/texts.php:249
+msgid "Editable Text"
+msgstr "編集可能なテキスト"
+
+#: languages/texts.php:248
+msgid "PRE"
+msgstr "PRE"
+
+#: languages/texts.php:247
+msgid "H6"
+msgstr "H6"
+
+#: languages/texts.php:246
+msgid "H5"
+msgstr "H5"
+
+#: languages/texts.php:245
+msgid "H4"
+msgstr "H4"
+
+#: languages/texts.php:244
+msgid "H3"
+msgstr "H3"
+
+#: languages/texts.php:243
+msgid "H2"
+msgstr "H2"
+
+#: languages/texts.php:242
+msgid "H1"
+msgstr "H1"
+
+#: languages/texts.php:241
+msgid "P"
+msgstr "P"
+
+#: languages/texts.php:240
+msgid "HTML Tag"
+msgstr "HTML タグ"
+
+#: languages/texts.php:239
+msgid "Gap Below"
+msgstr "下のギャップ"
+
+#: languages/texts.php:238
+msgid "Gap Above"
+msgstr "上のギャップ"
+
+#: languages/texts.php:235
+msgid "List"
+msgstr "リスト"
+
+#: languages/texts.php:234
+msgid "Letter Spc."
+msgstr "文字間隔"
+
+#: languages/texts.php:233
+msgid "Line Hgt."
+msgstr "ライン高さ"
+
+#: languages/texts.php:230
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: languages/texts.php:227
+msgid "Align"
+msgstr "整列"
+
+#: languages/texts.php:224
+msgid "RollOut"
+msgstr "ロールアウト"
+
+#: languages/texts.php:223
+msgid "RollIn"
+msgstr "ロールイン"
+
+#: languages/texts.php:222
+msgid "JackInTheBox"
+msgstr "ジャックインザボックス"
+
+#: languages/texts.php:221
+msgid "Hinge"
+msgstr "ヒンジ"
+
+#: languages/texts.php:220
+msgid "ZoomOutUp"
+msgstr "ズームアウトアップ"
+
+#: languages/texts.php:219
+msgid "ZoomOutRight"
+msgstr "右にズームアウト"
+
+#: languages/texts.php:218
+msgid "ZoomOutLeft"
+msgstr "左にズームアウト"
+
+#: languages/texts.php:217
+msgid "ZoomOutDown"
+msgstr "ズームアウトダウン"
+
+#: languages/texts.php:216
+msgid "ZoomOut"
+msgstr "ズームアウト"
+
+#: languages/texts.php:215
+msgid "ZoomInUp"
+msgstr "ズームインアップ"
+
+#: languages/texts.php:214
+msgid "ZoomInRight"
+msgstr "右にズームイン"
+
+#: languages/texts.php:213
+msgid "ZoomInLeft"
+msgstr "左にズームイン"
+
+#: languages/texts.php:212
+msgid "ZoomInDown"
+msgstr "ズームインダウン"
+
+#: languages/texts.php:211
+msgid "ZoomIn"
+msgstr "ズームイン"
+
+#: languages/texts.php:210
+msgid "SlideOutRight"
+msgstr "右にスライドアウト"
+
+#: languages/texts.php:209
+msgid "SlideOutLeft"
+msgstr "左にスライドアウト"
+
+#: languages/texts.php:208
+msgid "SlideOutDown"
+msgstr "スライドアウトダウン"
+
+#: languages/texts.php:207
+msgid "SlideOutUp"
+msgstr "スライドアウトアップ"
+
+#: languages/texts.php:206
+msgid "SlideInRight"
+msgstr "右にスライドイン"
+
+#: languages/texts.php:205
+msgid "SlideInLeft"
+msgstr "左にスライドイン"
+
+#: languages/texts.php:204
+msgid "SlideInDown"
+msgstr "スライドインダウン"
+
+#: languages/texts.php:203
+msgid "SlideInUp"
+msgstr "スライドインアップ"
+
+#: languages/texts.php:202
+msgid "RotateOutUpRight"
+msgstr "右上に回転させる"
+
+#: languages/texts.php:201
+msgid "RotateOutUpLeft"
+msgstr "左上に回転させる"
+
+#: languages/texts.php:200
+msgid "RotateOutDownRight"
+msgstr "右下に回転させる"
+
+#: languages/texts.php:199
+msgid "RotateOutDownLeft"
+msgstr "左下に回転させる"
+
+#: languages/texts.php:198
+msgid "RotateOut"
+msgstr "回転させる"
+
+#: languages/texts.php:197
+msgid "RotateInUpRight"
+msgstr "右上に回転"
+
+#: languages/texts.php:196
+msgid "RotateInUpLeft"
+msgstr "左上に回転"
+
+#: languages/texts.php:195
+msgid "RotateInDownRight"
+msgstr "右下に回転"
+
+#: languages/texts.php:194
+msgid "RotateInDownLeft"
+msgstr "左下に回転"
+
+#: languages/texts.php:193
+msgid "RotateIn"
+msgstr "回転"
+
+#: languages/texts.php:192
+msgid "LightSpeedIn"
+msgstr "ライトスピードイン"
+
+#: languages/texts.php:191
+msgid "FlipOutY"
+msgstr "Y ひっくり返す"
+
+#: languages/texts.php:190
+msgid "FlipOutX"
+msgstr "X ひっくり返す"
+
+#: languages/texts.php:189
+msgid "FlipInY"
+msgstr "Y 飛び込む"
+
+#: languages/texts.php:188
+msgid "FlipInX"
+msgstr "X 飛び込む"
+
+#: languages/texts.php:187
+msgid "Flip"
+msgstr "弾く"
+
+#: languages/texts.php:186
+msgid "FadeOutUpBig"
+msgstr "大きくフェードアウトアップ"
+
+#: languages/texts.php:185
+msgid "FadeOutUp"
+msgstr "フェードアウトアップ"
+
+#: languages/texts.php:184
+msgid "FadeOutRightBig"
+msgstr "右に大きくフェードアウト"
+
+#: languages/texts.php:183
+msgid "FadeOutRight"
+msgstr "右にフェードアウト"
+
+#: languages/texts.php:182
+msgid "FadeOutLeftBig"
+msgstr "左に大きくフェードアウト"
+
+#: languages/texts.php:181
+msgid "FadeOutLeft"
+msgstr "左にフェードアウト"
+
+#: languages/texts.php:180
+msgid "FadeOutDownBig"
+msgstr "大きくフェードアウトダウン"
+
+#: languages/texts.php:179
+msgid "FadeOutDown"
+msgstr "フェードアウトダウン"
+
+#: languages/texts.php:178
+msgid "FadeOut"
+msgstr "フェードアウト"
+
+#: languages/texts.php:177
+msgid "FadeInUpBig"
+msgstr "大きくフェードインアップ"
+
+#: languages/texts.php:176
+msgid "FadeInUp"
+msgstr "フェードインアップ"
+
+#: languages/texts.php:175
+msgid "FadeInRightBig"
+msgstr "右に大きくフェードイン"
+
+#: languages/texts.php:174
+msgid "FadeInRight"
+msgstr "右にフェードイン"
+
+#: languages/texts.php:173
+msgid "FadeInLeftBig"
+msgstr "左に大きくフェードイン"
+
+#: languages/texts.php:172
+msgid "FadeInLeft"
+msgstr "左にフェードイン"
+
+#: languages/texts.php:171
+msgid "FadeInDownBig"
+msgstr "大きくフェードインダウン"
+
+#: languages/texts.php:170
+msgid "FadeInDown"
+msgstr "フェードインダウン"
+
+#: languages/texts.php:169
+msgid "FadeIn"
+msgstr "フェードイン"
+
+#: languages/texts.php:168
+msgid "BounceOutUp"
+msgstr "バウンスアウトアップ"
+
+#: languages/texts.php:167
+msgid "BounceOutRight"
+msgstr "右にバウンスアウト"
+
+#: languages/texts.php:166
+msgid "BounceOutLeft"
+msgstr "左にバウンスアウト"
+
+#: languages/texts.php:165
+msgid "BounceOutDown"
+msgstr "バウンスアウトダウン"
+
+#: languages/texts.php:164
+msgid "BounceOut"
+msgstr "バウンスアウト"
+
+#: languages/texts.php:163
+msgid "BounceInUp"
+msgstr "バウンスインアップ"
+
+#: languages/texts.php:162
+msgid "BounceInRight"
+msgstr "右にバウンスイン"
+
+#: languages/texts.php:161
+msgid "BounceInLeft"
+msgstr "左にバウンスイン"
+
+#: languages/texts.php:160
+msgid "BounceInDown"
+msgstr "バウンスインダウン"
+
+#: languages/texts.php:159
+msgid "BounceIn"
+msgstr "バウンスイン"
+
+#: languages/texts.php:158
+msgid "Jello"
+msgstr "ジェロ"
+
+#: languages/texts.php:157
+msgid "Wobble"
+msgstr "ふらつき"
+
+#: languages/texts.php:156
+msgid "Tada"
+msgstr "ただ！"
+
+#: languages/texts.php:155
+msgid "Swing"
+msgstr "スイング"
+
+#: languages/texts.php:154
+msgid "Shake"
+msgstr "振る"
+
+#: languages/texts.php:153
+msgid "RubberBand"
+msgstr "輪ゴム"
+
+#: languages/texts.php:152
+msgid "Pulse"
+msgstr "パルス"
+
+#: languages/texts.php:151
+msgid "Flash"
+msgstr "フラッシュ"
+
+#: languages/texts.php:150
+msgid "Bounce"
+msgstr "バウンス"
+
+#: languages/texts.php:149
+msgid "Delay"
+msgstr "ディレイ"
+
+#: languages/texts.php:148
+msgid "Duration"
+msgstr "期間"
+
+#: languages/texts.php:147
+msgid "Animation"
+msgstr "アニメーション"
+
+#: languages/texts.php:144
+msgid "Duplicate"
+msgstr "複製する"
+
+#: languages/texts.php:139
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+#: languages/texts.php:136
+msgid "Zoom"
+msgstr "ズーム"
+
+#: languages/texts.php:135
+msgid "Enter address"
+msgstr "住所を入力"
+
+#: languages/texts.php:134
+msgid "Address"
+msgstr "住所"
+
+#: languages/texts.php:131
+msgid "720p"
+msgstr "720p"
+
+#: languages/texts.php:130
+msgid "1080p"
+msgstr "1080p"
+
+#: languages/texts.php:128
+msgid "YouTube or Vimeo"
+msgstr "YouTube または Vimeo"
+
+#: languages/texts.php:127
+msgid "URL"
+msgstr "リンク"
+
+#: languages/texts.php:125
+msgid "Animated"
+msgstr "アニメ化"
+
+#: languages/texts.php:124
+msgid "Fixed"
+msgstr "一定"
+
+#: languages/texts.php:121
+msgid "Bg Size"
+msgstr "背景サイズ"
+
+#: languages/texts.php:120
+msgid "Background"
+msgstr "背景"
+
+#: languages/texts.php:118
+msgid "Add new column"
+msgstr "新しい列を追加"
+
+#: languages/texts.php:115
+msgid "component"
+msgstr "コンポーネント"
+
+#: languages/texts.php:114
+msgid "Could not find"
+msgstr "見つけることができませんでした"
+
+#: languages/texts.php:113
+msgid "Missing Element"
+msgstr "欠けている要素"
+
+#: languages/texts.php:110
+msgid "Full"
+msgstr "フル"
+
+#: languages/texts.php:108
+msgid "Auto"
+msgstr "オート"
+
+#: languages/texts.php:107
+msgid "Boxed"
+msgstr "箱入り"
+
+#: languages/texts.php:105
+msgid "Width"
+msgstr "幅"
+
+#: languages/texts.php:104
+msgid "Full Height"
+msgstr "フルハイト"
+
+#: languages/texts.php:101
+msgid "Round"
+msgstr "円形"
+
+#: languages/texts.php:100
+msgid "Tail"
+msgstr "尾"
+
+#: languages/texts.php:99
+msgid "Heavy"
+msgstr "ヘビー"
+
+#: languages/texts.php:98
+msgid "Thin"
+msgstr "薄い"
+
+#: languages/texts.php:97
+msgid "Arrows"
+msgstr "矢印"
+
+#: languages/texts.php:95
+msgid "Diamond"
+msgstr "ダイヤモンド"
+
+#: languages/texts.php:94
+msgid "Circle"
+msgstr "サークル"
+
+#: languages/texts.php:93
+msgid "None"
+msgstr "無し"
+
+#: languages/texts.php:92
+msgid "Dots"
+msgstr "ドット"
+
+#: languages/texts.php:90
+msgid "Speed"
+msgstr "速度"
+
+#: languages/texts.php:89
+msgid "Auto Play"
+msgstr "自動再生"
+
+#: languages/texts.php:88
+msgid "Make it a Slider"
+msgstr "スライダーにする"
+
+#: languages/texts.php:83
+msgid "CSS Class"
+msgstr "CSSクラス"
+
+#: languages/texts.php:82
+msgid "Z-index"
+msgstr "Zインデックス"
+
+#: languages/texts.php:81
+msgid "Enable on Mobile"
+msgstr "モバイルで有効にする"
+
+#: languages/texts.php:80
+msgid "Disable on Mobile"
+msgstr "モバイルで無効にする"
+
+#: languages/texts.php:79
+msgid "Show on Desktop"
+msgstr "デスクトップに表示"
+
+#: languages/texts.php:76
+msgid "More Settings"
+msgstr "その他の設定"
+
+#: languages/texts.php:73
+msgid "Publish"
+msgstr "公開する"
+
+#: languages/texts.php:72
+msgid "Update"
+msgstr "アップデート"
+
+#: languages/texts.php:71
+msgid "Save HTML"
+msgstr "HTMLを保存"
+
+#: languages/texts.php:68
+msgid "Back to WordPress"
+msgstr "WordPress に戻る"
+
+#: languages/texts.php:67
+msgid "Plugin Settings"
+msgstr "プラグイン設定"
+
+#: languages/texts.php:66
+msgid "Back to Brizy"
+msgstr "Brizy に戻る"
+
+#: languages/texts.php:65
+msgid "About Brizy"
+msgstr "Brizy について"
+
+#: languages/texts.php:62
+msgid "Mobile"
+msgstr "モバイル"
+
+#: languages/texts.php:61
+msgid "Desktop"
+msgstr "デスクトップ"
+
+#: languages/texts.php:60
+msgid "Mobile view"
+msgstr "モバイルビュー"
+
+#: languages/texts.php:58
+msgid "New Style #%s"
+msgstr "新しいスタイル #%s"
+
+#: languages/texts.php:57
+msgid "Add New"
+msgstr "新しく追加する"
+
+#: languages/texts.php:56
+msgid "Add new option"
+msgstr "新しいオプションを追加"
+
+#: languages/texts.php:55
+msgid "Type font name"
+msgstr "書体名"
+
+#: languages/texts.php:54
+msgid "Add New Google Font"
+msgstr "新しい Google フォントを追加する"
+
+#: languages/texts.php:53 languages/texts.php:77
+msgid "Styling"
+msgstr "スタイリング"
+
+#: languages/texts.php:51
+msgid "Drag to reorder"
+msgstr "再注文のためにドラッグする"
+
+#: languages/texts.php:50
+msgid "Reorder Blocks"
+msgstr "ブロックの並べ替え"
+
+#: languages/texts.php:48
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: languages/texts.php:47
+msgid "Posts"
+msgstr "投稿"
+
+#: languages/texts.php:45
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: languages/texts.php:43
+msgid "Product"
+msgstr "製品"
+
+#: languages/texts.php:40
+msgid "Add to cart"
+msgstr "カートに追加"
+
+#: languages/texts.php:37
+msgid "Accordion"
+msgstr "アコーディオン"
+
+#: languages/texts.php:34
+msgid "Countdown"
+msgstr "カウントダウン"
+
+#: languages/texts.php:32
+msgid "SndCloud"
+msgstr "SndCloud"
+
+#: languages/texts.php:31
+msgid "Icon Box"
+msgstr "アイコンボックス"
+
+#: languages/texts.php:29
+msgid "Embed"
+msgstr "埋め込む"
+
+#: languages/texts.php:28 languages/texts.php:133
+msgid "Map"
+msgstr "地図"
+
+#: languages/texts.php:27
+msgid "Line"
+msgstr "ライン"
+
+#: languages/texts.php:26
+msgid "Spacer"
+msgstr "スペーサー"
+
+#: languages/texts.php:25 languages/texts.php:126
+msgid "Video"
+msgstr "動画"
+
+#: languages/texts.php:22
+msgid "Button"
+msgstr "ボタン"
+
+#: languages/texts.php:21 languages/texts.php:328
+msgid "Text"
+msgstr "テキスト"
+
+#: languages/texts.php:20
+msgid "Add Elements"
+msgstr "要素を追加"
+
+#: languages/texts.php:16
+msgid "Press the button to add blocks"
+msgstr "ボタンを押してブロックを追加します"
+
+#: languages/texts.php:15
+msgid "Add a new block"
+msgstr "新しいブロックを追加"
+
+#: languages/texts.php:12
+msgid "Switch to desktop to add blocks"
+msgstr "デスクトップに切り替えてブロックを追加する"
+
+#: languages/texts.php:11
+msgid "SWITCH TO DESKTOP"
+msgstr "デスクトップに切り替える"
+
+#: languages/texts.php:10
+msgid "Press the button above to add blocks"
+msgstr "ブロックを追加するには上のボタンを押してください"
+
+#: languages/texts.php:9
+msgid "START BUILDING YOUR PAGE"
+msgstr "ページの構築を始めましょう"
+
+#: public/views/error.php:10
+msgid "Go back"
+msgstr "戻る"
+
+#: public/main.php:84
+msgid "Preview"
+msgstr "プレビュー"
+
+#: editor/post.php:400
+msgid "Default"
+msgstr "デフォルト"
+
+#: admin/views/settings/view.php:64
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: admin/views/settings/view.php:16
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+#: admin/main.php:448
+msgid "Auto Draft"
+msgstr "自動下書き"
+
+#: admin/main.php:156 languages/texts.php:142
+msgid "Settings"
+msgstr "設定"
+
+#. Author of the plugin/theme
+msgid "Brizy.io"
+msgstr "Brizy.io"
+
+#. Description of the plugin/theme
+msgid "A free drag & drop front-end page builder to help you create WordPress pages lightning fast. It's easy with Brizy."
+msgstr "速く超高速 WordPress ページを作成するのを助けるための無料のドラッグ＆ドロップフロントエンドページビルダー。Brizy を使えば簡単です。"
+
+#. #-#-#-#-#  brizy-code.pot (Brizy 1.0.18)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  brizy-code.pot (Brizy 1.0.18)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://brizy.io/"
+msgstr "https://brizy.io/"
+
+#. Plugin Name of the plugin/theme
+msgid "Brizy"
+msgstr "Brizy"
+
+#: public/main.php:95
+msgid "View"
+msgstr "表示"
+
+#: public/hooks.php:34
+msgid "Brizy Template"
+msgstr "Brizy テンプレート"
+
+#: admin/views/settings/view.php:34
+msgid "Exclude for roles"
+msgstr "役割を除外"
+
+#: admin/views/button.php:45 admin/views/editor.php:21
+msgid "Continue to edit with"
+msgstr "編集を続ける"
+
+#: admin/main.php:352
+msgid "Edit with Brizy"
+msgstr "Brizy で編集"
